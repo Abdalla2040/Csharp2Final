@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMSC2240Finals", "CMSC2240Finals\CMSC2240Finals.csproj", "{0FC2AD02-B608-4691-A5EE-4105E2DD86B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMSC2240FinalsTests", "CMSC2240FinalsTests\CMSC2240FinalsTests.csproj", "{A1F7A124-FE0D-4AA3-BC7D-EA916629AA27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FC2AD02-B608-4691-A5EE-4105E2DD86B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC2AD02-B608-4691-A5EE-4105E2DD86B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC2AD02-B608-4691-A5EE-4105E2DD86B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC2AD02-B608-4691-A5EE-4105E2DD86B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F7A124-FE0D-4AA3-BC7D-EA916629AA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F7A124-FE0D-4AA3-BC7D-EA916629AA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F7A124-FE0D-4AA3-BC7D-EA916629AA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F7A124-FE0D-4AA3-BC7D-EA916629AA27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9583BB1-7F59-4501-9A23-0796E38FB6DE}
+	EndGlobalSection
+EndGlobal
